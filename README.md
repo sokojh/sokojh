@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img src="https://img.shields.io/badge/#58ACFA?style=flat-square&logo=#007396&logoColor=white"/></a>&nbsp 
+
 <!--
 **sokojh/sokojh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
