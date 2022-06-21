@@ -13,6 +13,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsokojh&count_bg=%23D9EC95&title_bg=%23555555&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **sokojh/sokojh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
