@@ -18,8 +18,7 @@
 <br/>
 <br/>
 
-
-![sokojh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokojh&show_icons=true&theme=default)
+![sokojh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokojh&show_icons=true&theme=dark)
 
 
 # [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsokojh&count_bg=%23D9EC95&title_bg=%23555555&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
